@@ -3,13 +3,13 @@
 	title="KiwiBrowser" width="200" height="200"/>
  </p>
 <p align="center">
-  <a href="https://github.com/Use4Free/src.next/releases">
-  <img src="https://img.shields.io/github/v/release/Use4Free/src.next?include_prereleases&label=latest%20release"/>
+  <a href="https://github.com/thefatedefeater/src.next/releases">
+  <img src="https://img.shields.io/github/v/release/thefatedefeater/src.next?include_prereleases&label=latest%20release"/>
 </a>
-  <a href="https://github.com/Use4Free/src.next/release">
-<img src="https://img.shields.io/github/downloads/Use4Free/src.next/total?label=GitHub%20Downloads&color=%6BDDD5"></a>
-<a href="https://github.com/Use4Free/src.next/blob/kiwi/LICENSE">
-  <img src="https://img.shields.io/github/license/Use4Free/src.next?color=%236BDDD5"/></a>
+  <a href="https://github.com/thefatedefeater/src.next/release">
+<img src="https://img.shields.io/github/downloads/thefatedefeater/src.next/total?label=GitHub%20Downloads&color=%6BDDD5"></a>
+<a href="https://github.com/thefatedefeater/src.next/blob/kiwi/LICENSE">
+  <img src="https://img.shields.io/github/license/thefatedefeater/src.next?color=%236BDDD5"/></a>
 
   </p>
 
@@ -29,7 +29,7 @@ Servers are paid-for and sponsored by Geometry OU (the company behind Kiwi Brows
 
 If you want to join the development process or read more about the technical work behind, or topics like `Contributing` , `Development` and `Workflows`, just click on the Wiki below:
 
-<a href="https://github.com/Use4Free/src.next/wiki">
+<a href="https://github.com/thefatedefeater/src.next/wiki">
 <img src="https://img.shields.io/badge/WIKI-ffffff?style=for-the-badge&logo=github&logoColor=black"></a>
 
 ## Releases
@@ -41,7 +41,7 @@ Official releases of Kiwi can be downloaded from PlayStore
 
 We also have more frequently builds of Kiwi here on the Github
 
-<a href="https://github.com/Use4Free/src.next/releases">
+<a href="https://github.com/thefatedefeater/src.next/releases">
 <img src="https://img.shields.io/badge/GitHub_Releases-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 Kiwi is currently built for ARM, ARM64 and x86
@@ -57,7 +57,7 @@ Kiwi is currently built for ARM, ARM64 and x86
 
 ## Social
 
-You can ask for extra help by [filing an issue](https://github.com/Use4Free/src.next/issues) or reach our main community chat on Discord
+You can ask for extra help by [filing an issue](https://github.com/thefatedefeater/src.next/issues) or reach our main community chat on Discord
 
 <a href="https://discord.gg/XyMppQq"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
